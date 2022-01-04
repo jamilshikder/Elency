@@ -1,0 +1,51 @@
+<li><i class="bi bi-geo-alt"></i><a href="https://goo.gl/maps/nR8HNxGzEzQKwrC58" target="_blank">Kalibari Cross Road, Habiganj</a></li>
+<li><i class="bi bi-telephone-plus"></i><a href="tel:+8801746014787">01746014787</a></li>
+<li><i class="bi bi-envelope"></i><a href="mailto:support@skyjack.com"><span class="__cf_email__" data-cfemail="support@skyjack.com">support@skyjack.com</span></a></li>
+
+
+<nav class="main-nav">
+<div class="logo mobile-ham-logo d-lg-none d-block text-left">
+<a href="index.html"><img src="assets/images/footer-logo.png" alt=""></a>
+</div>
+<ul>
+<li>
+<a class="active" href="javascript:void(0)">Home</a>
+<i class="fl flaticon-plus">+</i>
+</li>
+<li class="has-child-menu">
+    <a href="javascript:void(0)">About US</a>
+    <i class="fl flaticon-plus">+</i>
+    <ul class="sub-menu">
+    <li><a href="about-us.html">About Company</a></li>
+    <li><a href="team.html">Team Members</a></li>
+    
+    </ul>
+</li>
+
+<li class="has-child-menu">
+<a href="javascript:void(0)">Services</a>
+<i class="fl flaticon-plus">+</i>
+<ul class="sub-menu">
+<li><a href="service-page.html">Service</a></li>
+<li><a href="service-details.html">Service Details</a></li>
+</ul>
+</li>
+
+
+<li><a href="portfolio-page.html">Portfolio</a></li>
+<li><a href="pricing-page.html">Pricing</a></li>
+</ul>
+<div class="btn-wrap hero-btn-wrap d-block d-lg-none">
+<a class="common-btn menu-btn" href="contact-us.html"><i class="fas fa-plus"></i>Contact Us</a>
+</div>
+</nav>
+</div>
+<div class="col-xl-3 col-lg-3 d-none d-lg-block">
+<div class="btn-wrap menu-btn-wrap text-end">
+<a class="common-btn menu-btn" href="contact-us.html"><i class="fas fa-plus"></i>Contact Us</a>
+</div>
+</div>
+</div>
+</div>
+</div>
+</nav>
